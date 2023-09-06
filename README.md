@@ -1,5 +1,5 @@
 ## This is OpenAI Explore Project
-# Author: git: @pradeepku123
+# Author: @pradeepku123
 
 # Lets Begin 
-    * $ npm install openai
+    $ npm install openai
